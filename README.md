@@ -1,5 +1,5 @@
 <!-- Header Section with Animated Text -->
-<h1 align="center">Hi 👋, I'm Ritika</h1>
+<h1 align="center">Hi 👋, I'm Rohini</h1>
 <h3 align="center">Passionate Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <!-- Typing SVG Animation -->
